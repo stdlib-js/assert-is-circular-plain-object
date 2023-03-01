@@ -129,8 +129,8 @@ bool = isCircularPlainObject( null );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/assert/is-circular`][@stdlib/assert/is-circular]</span><span class="delimiter">: </span><span class="description">test if an object-like value contains a circular reference.</span>
--   <span class="package-name">[`@stdlib/assert/is-circular-array`][@stdlib/assert/is-circular-array]</span><span class="delimiter">: </span><span class="description">test if a value is an array containing a circular reference.</span>
+-   <span class="package-name">[`@stdlib/assert-is-circular`][@stdlib/assert/is-circular]</span><span class="delimiter">: </span><span class="description">test if an object-like value contains a circular reference.</span>
+-   <span class="package-name">[`@stdlib/assert-is-circular-array`][@stdlib/assert/is-circular-array]</span><span class="delimiter">: </span><span class="description">test if a value is an array containing a circular reference.</span>
 
 </section>
 
