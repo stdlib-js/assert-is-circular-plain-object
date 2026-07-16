@@ -1,5 +1,5 @@
-"use strict";var s=function(r,i){return function(){return i||r((i={exports:{}}).exports,i),i.exports}};var t=s(function(f,e){
-var u=require('@stdlib/assert-is-plain-object/dist'),a=require('@stdlib/assert-is-circular/dist');function c(r){return u(r)?a(r):!1}e.exports=c
-});var n=t();module.exports=n;
+"use strict";var u=function(i,r){return function(){try{return r||i((r={exports:{}}).exports,r),r.exports}catch(s){throw (r=0, s)}};};var t=u(function(o,e){
+var a=require('@stdlib/assert-is-plain-object/dist'),c=require('@stdlib/assert-is-circular/dist');function n(i){return a(i)?c(i):!1}e.exports=n
+});var l=t();module.exports=l;
 /** @license Apache-2.0 */
 //# sourceMappingURL=index.js.map
